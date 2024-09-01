@@ -1,0 +1,8 @@
+Key Definitions
+1- Population - Collection of all items of interest to our study and usually denoted with uppercase N
+   - Parameters are the numbers we obtained using population
+2- Sample - is the subset of population it is denoted with lowercase n 
+3- Statistics are the numbers which we obtained using samples 
+and this has two defining characteristics 
+a. Randomness - A random sample is collected when each member of the sample is chosen from the population strictly by chance.
+b. Representation - Representative sample is a subset of the population that accurately reflects the members of the entire population.
